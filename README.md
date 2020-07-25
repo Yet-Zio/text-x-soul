@@ -1,3 +1,4 @@
+# Note: Latest Revision released is still 0.5.2, This is only a fork!
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f5832fbcbe6145d8a9d6ebdd90b2118c)](https://app.codacy.com/gh/text-x-soul/text-x-soul?utm_source=github.com&utm_medium=referral&utm_content=text-x-soul/text-x-soul&utm_campaign=Badge_Grade_Dashboard)
 # Latest Revision : 0.5.3
 ## Index
